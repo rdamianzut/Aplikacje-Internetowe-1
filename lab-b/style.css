@@ -11,7 +11,7 @@ body{
 #box{
     background-color:rgb(189, 234, 250);
     width: 50vw;
-    
+    padding: 20px;
 }
 
 #search{
